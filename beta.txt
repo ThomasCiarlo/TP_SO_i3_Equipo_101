@@ -1,0 +1,37 @@
+Ciarlo Thomas
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . : wondersoft.net
+   Vínculo: dirección IPv6 local. . . : fe80::3e3b:4ff0:cce0:3ebd%16
+   Vínculo: dirección IPv6 local. . . : fe80::4118:6582:bd11:818c%16
+   Dirección IPv4. . . . . . . . . . . . . . : 10.100.100.207
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : ::
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1992:1225:1d32:c29%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.15
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
