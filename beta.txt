@@ -1,37 +1,65 @@
 Ciarlo Thomas
 Adaptador de Ethernet Ethernet 3:
 
-   Sufijo DNS específico para la conexión. . : wondersoft.net
-   Vínculo: dirección IPv6 local. . . : fe80::3e3b:4ff0:cce0:3ebd%16
-   Vínculo: dirección IPv6 local. . . : fe80::4118:6582:bd11:818c%16
-   Dirección IPv4. . . . . . . . . . . . . . : 10.100.100.207
-   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . : wondersoft.net
+   VÃ­nculo: direcciÃ³n IPv6 local. . . : fe80::3e3b:4ff0:cce0:3ebd%16
+   VÃ­nculo: direcciÃ³n IPv6 local. . . : fe80::4118:6582:bd11:818c%16
+   DirecciÃ³n IPv4. . . . . . . . . . . . . . : 10.100.100.207
+   MÃ¡scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : ::
 
 Adaptador de Ethernet Ethernet:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. . :
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . :
 
-Adaptador de LAN inalámbrica Conexión de área local* 1:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. . :
-
-Adaptador de LAN inalámbrica Conexión de área local* 2:
+Adaptador de LAN inalÃ¡mbrica ConexiÃ³n de Ã¡rea local* 1:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. . :
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . :
 
-Adaptador de LAN inalámbrica Wi-Fi:
+Adaptador de LAN inalÃ¡mbrica ConexiÃ³n de Ã¡rea local* 2:
 
-   Sufijo DNS específico para la conexión. . :
-   Vínculo: dirección IPv6 local. . . : fe80::1992:1225:1d32:c29%18
-   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.15
-   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . :
+
+Adaptador de LAN inalÃ¡mbrica Wi-Fi:
+
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . :
+   VÃ­nculo: direcciÃ³n IPv6 local. . . : fe80::1992:1225:1d32:c29%18
+   DirecciÃ³n IPv4. . . . . . . . . . . . . . : 192.168.0.15
+   MÃ¡scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
-Adaptador de Ethernet Conexión de red Bluetooth:
+Adaptador de Ethernet ConexiÃ³n de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. . :
+   Sufijo DNS especÃ­fico para la conexiÃ³n. . :
+   
+   
+   
+   
+   
+   Luciano Gonzalez 5:21
+   
+   Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : fibertel.com.ar
+   Link-local IPv6 Address . . . . . : fe80::6d7a:2d28:db3f:6d0a%13
+   IPv4 Address. . . . . . . . . . . : 192.168.0.14
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::7064:2a36:b54e:7ba%10
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   
+   
+   
+   
+   
+   
