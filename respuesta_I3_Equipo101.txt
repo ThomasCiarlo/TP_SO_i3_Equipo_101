@@ -1,0 +1,4 @@
+A) luego de todos los cambios el master quedo actualizado con todos los forks
+B) Se podian ver todos los cambios, cambiando de ramas
+C)git checkout master
+  git merge Gonzales
