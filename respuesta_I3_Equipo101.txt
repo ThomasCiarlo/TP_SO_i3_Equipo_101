@@ -3,7 +3,7 @@ B) Se podian ver todos los cambios, cambiando de ramas
 C)git checkout master
   git merge Gonzales
 D)No, las ramas no quedan con los datos actualizados
-E)No especificamos a que rama hacerlo y eso ocasiono un guardado de datos en todas las ramas
+E)No especificamos a que rama hacerlo y se guardaron los datos en todas las ramas
 F) 
 	1) datos.txt & hostname -I >> datos.txt & date +%T >> datos.txt
 	2) git add .
