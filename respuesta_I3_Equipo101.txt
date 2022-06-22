@@ -2,7 +2,13 @@ A) luego de todos los cambios el master quedo actualizado con todos los forks
 B) Se podian ver todos los cambios, cambiando de ramas
 C)git checkout master
   git merge Gonzales
-
+D)No, las ramas no quedan con los datos actualizados
+E)No especificamos a que rama hacerlo y eso ocasiono un guardado de datos en todas las ramas
+F) 
+	1) datos.txt & hostname -I >> datos.txt & date +%T >> datos.txt
+	2) git add .
+	3) git commit -m
+	4) git push
 
 G) Los comandos utilizados para realizar el punto 8 son los siguientes:
 	git clone --branch <nombre de la branch> <URL del repositorio original>
